@@ -1,0 +1,16 @@
+D:\Online Coding\OnlineCoding\bin\Debug\net5.0\OnlineCoding.exe
+D:\Online Coding\OnlineCoding\bin\Debug\net5.0\OnlineCoding.deps.json
+D:\Online Coding\OnlineCoding\bin\Debug\net5.0\OnlineCoding.runtimeconfig.json
+D:\Online Coding\OnlineCoding\bin\Debug\net5.0\OnlineCoding.runtimeconfig.dev.json
+D:\Online Coding\OnlineCoding\bin\Debug\net5.0\OnlineCoding.dll
+D:\Online Coding\OnlineCoding\bin\Debug\net5.0\ref\OnlineCoding.dll
+D:\Online Coding\OnlineCoding\bin\Debug\net5.0\OnlineCoding.pdb
+D:\Online Coding\OnlineCoding\obj\Debug\net5.0\OnlineCoding.csprojAssemblyReference.cache
+D:\Online Coding\OnlineCoding\obj\Debug\net5.0\OnlineCoding.GeneratedMSBuildEditorConfig.editorconfig
+D:\Online Coding\OnlineCoding\obj\Debug\net5.0\OnlineCoding.AssemblyInfoInputs.cache
+D:\Online Coding\OnlineCoding\obj\Debug\net5.0\OnlineCoding.AssemblyInfo.cs
+D:\Online Coding\OnlineCoding\obj\Debug\net5.0\OnlineCoding.csproj.CoreCompileInputs.cache
+D:\Online Coding\OnlineCoding\obj\Debug\net5.0\OnlineCoding.dll
+D:\Online Coding\OnlineCoding\obj\Debug\net5.0\ref\OnlineCoding.dll
+D:\Online Coding\OnlineCoding\obj\Debug\net5.0\OnlineCoding.pdb
+D:\Online Coding\OnlineCoding\obj\Debug\net5.0\OnlineCoding.genruntimeconfig.cache
